@@ -13,7 +13,7 @@
         <mxCell id="OX9XFnC-E0A9urkFv_6n-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="nombre" vertex="1">
           <mxGeometry height="40" width="90" x="151" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="OX9XFnC-E0A9urkFv_6n-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;dni&lt;/u&gt;" vertex="1">
+        <mxCell id="OX9XFnC-E0A9urkFv_6n-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;nif&lt;/u&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="11" y="260" as="geometry" />
         </mxCell>
         <mxCell id="OX9XFnC-E0A9urkFv_6n-5" edge="1" parent="1" source="OX9XFnC-E0A9urkFv_6n-2" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="OX9XFnC-E0A9urkFv_6n-1" value="">
@@ -88,7 +88,7 @@
             <mxPoint x="761" y="312.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OX9XFnC-E0A9urkFv_6n-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;id&lt;/u&gt;" vertex="1">
+        <mxCell id="OX9XFnC-E0A9urkFv_6n-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;u&gt;dni&lt;/u&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="521" y="297.5" as="geometry" />
         </mxCell>
         <mxCell id="OX9XFnC-E0A9urkFv_6n-24" edge="1" parent="1" source="OX9XFnC-E0A9urkFv_6n-16" style="endArrow=none;html=1;rounded=0;entryX=0.683;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="OX9XFnC-E0A9urkFv_6n-23" value="">
