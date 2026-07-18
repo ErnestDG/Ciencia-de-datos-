@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="UefD77mM5B8A_C1L3BLL">
-    <mxGraphModel dx="1898" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,9 @@
             <mxPoint x="424" y="429.5" as="sourcePoint" />
             <mxPoint x="327" y="501.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TDhhHd_ppP6O2_weW4Nz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Ernesto Díaz&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="970" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
