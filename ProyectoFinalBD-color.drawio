@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="wAlqDm-8T9MwbGj6bMmE">
-    <mxGraphModel dx="1708" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,14 +681,17 @@
             <mxPoint x="300" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsIHg0rzpoMFsO_voId8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MER - Proyecto Final BD" vertex="1">
-          <mxGeometry height="30" width="157" x="924" y="33" as="geometry" />
-        </mxCell>
         <mxCell id="KsIHg0rzpoMFsO_voId8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Matricula Universidad&lt;/font&gt;" vertex="1">
           <mxGeometry height="42" width="375" x="94" y="37" as="geometry" />
         </mxCell>
-        <mxCell id="KsIHg0rzpoMFsO_voId8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ernesto Díaz García" vertex="1">
-          <mxGeometry height="30" width="118" x="931" y="53" as="geometry" />
+        <mxCell id="KsIHg0rzpoMFsO_voId8-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="210" x="924" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KsIHg0rzpoMFsO_voId8-1" parent="KsIHg0rzpoMFsO_voId8-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MER - Proyecto Final BD&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KsIHg0rzpoMFsO_voId8-3" parent="KsIHg0rzpoMFsO_voId8-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ernesto Díaz García&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="173" y="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
